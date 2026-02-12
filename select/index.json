@@ -1,0 +1,40 @@
+{
+  "version": 1,
+  "base_track": "ギザバ怪文書",
+  "base_artist": "cosMo＠暴走P",
+  "createdAt": "2026-02-12T09:08:12.332750Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "ギザバ怪文書 (feat. 音街ウナ)",
+      "artist": "cosMo@Bousou-P, 音街ウナ",
+      "has_synced": true,
+      "path": "select/01_ギザバ怪文書_(feat._音街ウナ)_cosMo@Bousou-P,_音街ウナ.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "ギザバ怪文書 (feat. 音街ウナ)",
+      "artist": "cosMo@Bousou-P",
+      "has_synced": true,
+      "path": "select/02_ギザバ怪文書_(feat._音街ウナ)_cosMo@Bousou-P.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "ギザバ怪文書(Off Vocal)",
+      "artist": "cosMo@Bousou-P",
+      "has_synced": true,
+      "path": "select/03_ギザバ怪文書(Off_Vocal)_cosMo@Bousou-P.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ギザバ怪文書 (feat. 音街ウナ)",
+      "artist": "cosMo@暴走P",
+      "has_synced": false,
+      "path": "select/pl_01_ギザバ怪文書_(feat._音街ウナ)_cosMo@暴走P.txt"
+    }
+  ]
+}
